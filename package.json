@@ -42,5 +42,9 @@
     "grunt-contrib-copy": "^0.8.0",
     "grunt-contrib-cssmin": "^0.12.2",
     "grunt-contrib-uglify": "^0.8.0"
-  }
+  },
+  "silk": {
+    "url": "http://localhost:2000"
+  },
+  "icon": "static/images/favicon.ico"
 }
