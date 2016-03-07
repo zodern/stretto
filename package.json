@@ -46,5 +46,5 @@
   "silk": {
     "url": "http://localhost:2000"
   },
-  "icon": "static/images/favicon.ico"
+  "icon": "electronres/icon.ico"
 }
